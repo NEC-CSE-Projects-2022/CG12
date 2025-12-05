@@ -1,0 +1,10 @@
+Flask==3.0.0
+flask-cors==4.0.0
+pandas==2.1.4
+
+# Additional packages for model training and saving
+scikit-learn
+joblib
+numpy
+matplotlib
+seaborn
