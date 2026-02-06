@@ -8,3 +8,4 @@ joblib
 numpy
 matplotlib
 seaborn
+#run command :- python app.py
