@@ -1,0 +1,21 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #f0f4f8, #e6eef5);
+}
+
+.main-content {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  flex: 1;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.content-area {
+  flex: 1;
+  min-width: 0;
+}
